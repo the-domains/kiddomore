@@ -1,0 +1,28 @@
+name: Kiddomore
+favicon: null
+layout_spectrum: 0.31990844081155956
+typography_spectrum: 0.9048414689023048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18972181272692978
+  lightness: 0.7657488631084561
+  saturation: 0.47187698539346457
+  rhythmicContrast: 0.8968273669015616
+purpose: []
